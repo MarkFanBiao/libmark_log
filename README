@@ -1,0 +1,14 @@
+This is a library for program log.
+
+How to install libmark_log.so?
+
+1. cd mark_log.1.0.1
+2. make
+3. sudo make install
+
+How to uninstall libmark_log.so?
+
+1. cd mark_log.1.0.1
+2. make clean
+3. sudo make uninstall
+
